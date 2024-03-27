@@ -1,0 +1,16 @@
+body {
+	font-family: Arial, sans-serif;
+  }
+  
+  form>* {
+	margin: 10px;
+  }
+  
+  #message {
+	color: green;
+	font-weight: bold;
+  }
+  
+  #download-link {
+	display: none;
+  }
